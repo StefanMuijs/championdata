@@ -1,0 +1,65 @@
+{
+  "iron": {
+    "top": ["Garen", "Malphite", "Darius"],
+    "jungle": ["Amumu", "Warwick", "Rammus"],
+    "mid": ["Annie", "Veigar", "Lux"],
+    "adc": ["Miss Fortune", "Ashe", "Jhin"],
+    "support": ["Leona", "Blitzcrank", "Brand"]
+  },
+  "bronze": {
+    "top": ["Garen", "Nasus", "Teemo"],
+    "jungle": ["Master Yi", "Vi", "Nunu"],
+    "mid": ["Annie", "Ahri", "Lux"],
+    "adc": ["Miss Fortune", "Ashe", "Ezreal"],
+    "support": ["Leona", "Morgana", "Nautilus"]
+  },
+  "silver": {
+    "top": ["Darius", "Camille", "Mordekaiser"],
+    "jungle": ["Warwick", "Vi", "Ekko"],
+    "mid": ["Yasuo", "Ahri", "Zed"],
+    "adc": ["Caitlyn", "Jhin", "Ezreal"],
+    "support": ["Thresh", "Nautilus", "Leona"]
+  },
+  "gold": {
+    "top": ["Jax", "Shen", "Fiora"],
+    "jungle": ["Hecarim", "Jarvan IV", "Lee Sin"],
+    "mid": ["Azir", "Anivia", "Viktor"],
+    "adc": ["Kai'Sa", "Lucian", "Jhin"],
+    "support": ["Nami", "Lulu", "Braum"]
+  },
+  "platinum": {
+    "top": ["Camille", "Irelia", "Aatrox"],
+    "jungle": ["Lee Sin", "Kha'Zix", "Nidalee"],
+    "mid": ["Syndra", "Leblanc", "Kassadin"],
+    "adc": ["Zeri", "Kai'Sa", "Aphelios"],
+    "support": ["Thresh", "Renata Glasc", "Nami"]
+  },
+  "diamond": {
+    "top": ["Fiora", "Jax", "Camille"],
+    "jungle": ["Kindred", "Elise", "Jarvan IV"],
+    "mid": ["Yone", "Leblanc", "Akali"],
+    "adc": ["Draven", "Zeri", "Aphelios"],
+    "support": ["Thresh", "Lulu", "Karma"]
+  },
+  "master": {
+    "top": ["Gwen", "Aatrox", "Camille"],
+    "jungle": ["Viego", "Kha'Zix", "Graves"],
+    "mid": ["Sylas", "Leblanc", "Akali"],
+    "adc": ["Lucian", "Zeri", "Varus"],
+    "support": ["Rakan", "Lulu", "Renata Glasc"]
+  },
+  "grandmaster": {
+    "top": ["Camille", "Fiora", "Jax"],
+    "jungle": ["Lee Sin", "Kindred", "Viego"],
+    "mid": ["Leblanc", "Akali", "Sylas"],
+    "adc": ["Aphelios", "Lucian", "Zeri"],
+    "support": ["Thresh", "Nami", "Renata Glasc"]
+  },
+  "challenger": {
+    "top": ["Camille", "Fiora", "Gwen"],
+    "jungle": ["Elise", "Viego", "Kha'Zix"],
+    "mid": ["Leblanc", "Akali", "Kassadin"],
+    "adc": ["Zeri", "Lucian", "Aphelios"],
+    "support": ["Thresh", "Renata Glasc", "Lulu"]
+  }
+}
